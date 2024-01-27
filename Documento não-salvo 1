@@ -1,0 +1,37 @@
+    Aula 01
+
+    O que é Ciencia de dados?
+
+    É o estudo dos dados para gerar insights para a empresa e ajudar na tomada de decisão
+
+    Exemplo de aplicação de modelo para situação comum, no caso de uma tentativa de compra no cartão de crédito que foge do padrão, local, e valor duvidosos e          
+    necessitaria da liberação para aumentar limite de credito do cliente.
+
+    1 - Análise históica do comportamento do cliente
+
+    2 - Aplicação do modelo de identificação de fraude
+
+    3 - Análise da transação atual
+
+    Em segundos se conclui que existe grande possibilidade de ser fraude, e compra é negada.
+
+    Ex: https://colab.research.google.com/drive/1MF-kHhhBYnTFan7w-bGKxvQTEadl-c8h?usp=sharing
+
+    Aula 02
+
+        Metodologia Cientifica 
+
+    - Observar
+    - Criar as hipóteses
+    - Testar
+    - Validar
+    - Monitorar
+
+        CRISP - DM ( CRoss Industry Standard Process for Data Mining)
+
+    1 - Entendimento do negócio
+    2 - Entendimento dos dados
+    3 - Preparação do dados
+    4 - Análise / Modelagem
+    5 - Validação
+    6 - Preparação / Visualização
